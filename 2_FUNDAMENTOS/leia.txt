@@ -1,3 +1,5 @@
+npm init -y
+
 Sobre o problema do chalk - Leiam!
 Nesta seção instalaremos um pacote que é chamado de chalk
 
