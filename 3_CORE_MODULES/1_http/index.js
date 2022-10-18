@@ -10,3 +10,5 @@ const server = http.createServer((req,res) => {
 server.listen(port, () => {
     console.log(`servidor rodando na porta: ${port}`)
 })
+
+// este não funcinou somente o da pasta 2
