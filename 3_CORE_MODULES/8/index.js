@@ -8,3 +8,6 @@ fs.unlink('arquivo.txt', function (err) {
 
     console.log('arquivo removido')
 })
+
+//! o arquivo deve existir no caso na mesma
+//! pasta que especifica o caminho para ser excluido 
